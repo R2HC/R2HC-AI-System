@@ -1,0 +1,15 @@
+# Never commit these
+logs/
+threads/threads.db
+heartbeat/heartbeat.json
+memory/facts.json
+memory/vectordb/
+.env
+*.env
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+credentials/
+*.key
+*.secret
